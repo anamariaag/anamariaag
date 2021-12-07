@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Computer Science degree at ITESO.
+- 🔭 I’m currently working on my Computer Systems Engineering degree at ITESO.
 - 👯 I’m looking to collaborate on coding projects.
 - 📫 How to reach me: linkedin - /ana-maria-anaya-569435144
 
