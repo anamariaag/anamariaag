@@ -1,7 +1,7 @@
 # Hi 👋, my name is Ana Maria
 - 🔭 I’m currently working on my Computer Systems Engineering degree at ITESO.
 - 👯 I’m looking to collaborate on coding projects.
-- 📫 How to reach me email: anamariaag04@gmail.com
+- 📫 Email: anamariaag04@gmail.com
 - 📄 CV - [Ana Maria - resume 2022.pdf](https://github.com/anamariaag/anamariaag/files/10362981/Ana.Maria.-.resume.2022.pdf)
 
 ### Connect with me
